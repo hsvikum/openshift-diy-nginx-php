@@ -1,5 +1,5 @@
 # boekkooi/openshift-nginx-php
-This is a sample repository to get nginx + php fpm running on openshift.
+Tahis is a sample repository to get nginx + php fpm running on openshift.
 
 More information about openshift: https://openshift.redhat.com/
 
